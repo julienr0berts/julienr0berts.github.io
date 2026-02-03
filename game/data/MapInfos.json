@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"starting_crossroads","order":1,"parentId":0,"scrollX":811,"scrollY":-38},
+{"id":2,"expanded":false,"name":"house_interior","order":4,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":3,"expanded":false,"name":"north_passing","order":2,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
+{"id":4,"expanded":false,"name":"west_passing","order":3,"parentId":1,"scrollX":0,"scrollY":0,"quick":false}
+]
